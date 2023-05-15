@@ -2,6 +2,8 @@
 
 Es un tema para grub basado en la distribucion de linux `Hyprland`
 
+`1366px x 768px`
+
 ![Background Hyprland Grub](/images/background.png "Background")
 
 ## Descargar

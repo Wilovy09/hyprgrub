@@ -33,7 +33,7 @@ terminal-border: "0"
 # You can change the name of default starting OS here
 + label {
   left = 15%
-  top = 31%
+  top = 35%
   align = "center"
   id = "__timeout__"
   text = "Arch Linux will start in %d seconds"
